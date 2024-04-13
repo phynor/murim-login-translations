@@ -1,0 +1,4 @@
+- chapter: 251
+- translator: No_End_9483
+- published: 2023-02-17T10:04:56+00:00
+- source: https://www.reddit.com/user/No_End_9483/comments/114fwoy/murim_login_novel_ch251/

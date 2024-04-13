@@ -1,0 +1,4 @@
+- chapter: 351
+- translator: kenUdigitt
+- published: 2024-02-19T14:04:33+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1auo1qg/novel_chapter_351

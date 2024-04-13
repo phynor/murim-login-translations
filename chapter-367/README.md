@@ -1,0 +1,4 @@
+- chapter: 367
+- translator: kenUdigitt
+- published: 2024-03-15T14:41:50+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bffjdm/novel_chapter_367

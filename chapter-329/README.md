@@ -1,0 +1,4 @@
+- chapter: 329
+- translator: kenUdigitt
+- published: 2024-02-09T16:58:51+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1amst9a/novel_chapter_329

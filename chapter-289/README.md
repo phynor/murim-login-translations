@@ -1,0 +1,4 @@
+- chapter: 289
+- translator: kenUdigitt
+- published: 2023-12-01T15:22:28+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/188eh9r/novel_chapter_289

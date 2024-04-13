@@ -1,0 +1,4 @@
+- chapter: 283
+- translator: kenUdigitt
+- published: 2023-11-17T15:07:50+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17xh47a/novel_chapter_283

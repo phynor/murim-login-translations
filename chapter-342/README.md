@@ -1,0 +1,4 @@
+- chapter: 342
+- translator: kenUdigitt
+- published: 2024-02-19T13:12:14+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aumyla/novel_chapter_342

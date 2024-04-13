@@ -1,0 +1,4 @@
+- chapter: 229
+- translator: Coldbutteredtoast
+- published: 2022-12-04T05:56:01+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/yx70bd/murim_login_novel_ftl_220229/iyue7cs/

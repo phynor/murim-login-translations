@@ -1,0 +1,4 @@
+- chapter: 258
+- translator: No_End_9483
+- published: 2023-03-15T02:23:36+00:00
+- source: https://www.reddit.com/user/No_End_9483/comments/11rj9sz/murim_login_novel_ch258/

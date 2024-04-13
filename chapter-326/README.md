@@ -1,0 +1,4 @@
+- chapter: 326
+- translator: kenUdigitt
+- published: 2024-02-02T16:21:03+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ah7io0/novel_chapter_326

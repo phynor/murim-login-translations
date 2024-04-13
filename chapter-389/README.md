@@ -1,0 +1,4 @@
+- chapter: 389
+- translator: kenUdigitt
+- published: 2024-04-13T14:07:52+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c32suu/novel_chapter_389

@@ -1,0 +1,4 @@
+- chapter: 285
+- translator: kenUdigitt
+- published: 2023-11-24T14:57:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/182twqg/novel_chapter_285

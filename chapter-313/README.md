@@ -1,0 +1,4 @@
+- chapter: 313
+- translator: kenUdigitt
+- published: 2024-01-05T16:21:12+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18zapzt/novel_chapter_313

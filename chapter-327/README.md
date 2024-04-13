@@ -1,0 +1,4 @@
+- chapter: 327
+- translator: kenUdigitt
+- published: 2024-02-02T16:21:54+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ah7jey/novel_chapter_327

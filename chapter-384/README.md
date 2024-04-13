@@ -1,0 +1,4 @@
+- chapter: 384
+- translator: kenUdigitt
+- published: 2024-04-06T03:41:15+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bx1t9b/novel_chapter_384

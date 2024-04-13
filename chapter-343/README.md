@@ -1,0 +1,4 @@
+- chapter: 343
+- translator: kenUdigitt
+- published: 2024-02-19T13:15:08+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aun0na/novel_chapter_343

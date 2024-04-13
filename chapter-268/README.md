@@ -1,0 +1,4 @@
+- chapter: 268
+- translator: kenUdigitt
+- published: 2023-10-08T01:36:53+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/172mum6/murim_login_chapter_268

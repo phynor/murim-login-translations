@@ -1,0 +1,4 @@
+- chapter: 345
+- translator: kenUdigitt
+- published: 2024-02-19T13:17:34+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aun2bq/novel_chapter_345

@@ -1,0 +1,4 @@
+- chapter: 294
+- translator: kenUdigitt
+- published: 2023-12-09T17:42:24+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18eiqzq/novel_chapter_294

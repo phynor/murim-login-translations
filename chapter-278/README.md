@@ -1,0 +1,4 @@
+- chapter: 278
+- translator: kenUdigitt
+- published: 2023-11-03T14:29:46+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17mwdu7/novel_chapter_278

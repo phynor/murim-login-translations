@@ -1,0 +1,4 @@
+- chapter: 246
+- translator: Coldbutteredtoast
+- published: 2023-01-17T17:36:37+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/10ei4uh/chapter_246/

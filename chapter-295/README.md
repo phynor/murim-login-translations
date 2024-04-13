@@ -1,0 +1,4 @@
+- chapter: 295
+- translator: kenUdigitt
+- published: 2023-12-09T17:43:01+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18eirfm/novel_chapter_295

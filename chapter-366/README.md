@@ -1,0 +1,4 @@
+- chapter: 366
+- translator: kenUdigitt
+- published: 2024-03-15T14:40:51+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bffihm/novel_chapter_366

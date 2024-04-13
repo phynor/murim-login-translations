@@ -1,0 +1,4 @@
+- chapter: 232
+- translator: Coldbutteredtoast
+- published: 2022-12-16T13:19:10+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/znei91/chapter_232/

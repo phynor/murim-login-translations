@@ -1,0 +1,4 @@
+- chapter: 279
+- translator: kenUdigitt
+- published: 2023-11-10T15:33:13+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17s6hvi/novel_chapter_279

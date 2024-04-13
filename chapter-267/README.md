@@ -1,0 +1,4 @@
+- chapter: 267
+- translator: kenUdigitt
+- published: 2023-10-08T01:35:15+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/172mthh/murim_login_chapter_267

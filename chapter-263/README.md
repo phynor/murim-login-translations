@@ -1,0 +1,4 @@
+- chapter: 263
+- translator: kenUdigitt
+- published: 2023-09-24T19:28:22+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/16r6d0j/novel_chapter_263

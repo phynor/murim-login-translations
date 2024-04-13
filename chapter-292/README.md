@@ -1,0 +1,4 @@
+- chapter: 292
+- translator: kenUdigitt
+- published: 2023-12-08T14:58:58+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18domfb/novel_chapter_292

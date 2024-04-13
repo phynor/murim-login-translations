@@ -1,0 +1,4 @@
+- chapter: 361
+- translator: kenUdigitt
+- published: 2024-03-01T15:23:35+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1b3wv7o/novel_chapter_361

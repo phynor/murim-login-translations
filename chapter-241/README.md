@@ -1,0 +1,4 @@
+- chapter: 241
+- translator: Coldbutteredtoast
+- published: 2023-01-06T20:44:11+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/1054ydf/chapter_241/

@@ -1,0 +1,4 @@
+- chapter: 337
+- translator: kenUdigitt
+- published: 2024-02-19T13:05:36+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aumtu9/novel_chapter_337

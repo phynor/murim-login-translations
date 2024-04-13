@@ -1,0 +1,4 @@
+- chapter: 385
+- translator: kenUdigitt
+- published: 2024-04-06T03:42:13+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bx1tw2/novel_chapter_385

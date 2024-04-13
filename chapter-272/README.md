@@ -1,0 +1,4 @@
+- chapter: 272
+- translator: kenUdigitt
+- published: 2023-10-27T14:14:55+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17hoifn/novel_chapter_272

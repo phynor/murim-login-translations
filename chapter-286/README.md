@@ -1,0 +1,4 @@
+- chapter: 286
+- translator: kenUdigitt
+- published: 2023-11-24T14:58:32+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/182txbs/novel_chapter_286

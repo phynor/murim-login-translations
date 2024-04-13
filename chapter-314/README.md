@@ -1,0 +1,4 @@
+- chapter: 314
+- translator: kenUdigitt
+- published: 2024-01-12T16:25:17+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/194z1mw/novel_chapter_314

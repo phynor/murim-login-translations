@@ -1,0 +1,4 @@
+- chapter: 376
+- translator: kenUdigitt
+- published: 2024-03-22T13:24:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bkz5tb/novel_chapter_376

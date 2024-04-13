@@ -1,0 +1,4 @@
+- chapter: 306
+- translator: kenUdigitt
+- published: 2023-12-26T00:24:26+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18qv11k/novel_chapter_306

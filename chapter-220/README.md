@@ -1,0 +1,4 @@
+- chapter: 220
+- translator: Coldbutteredtoast
+- published: 2022-11-12T22:30:29+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/ygxe6i/murim_login_novel_summaries_210219/iw4kqy7/

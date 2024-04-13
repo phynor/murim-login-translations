@@ -1,0 +1,4 @@
+- chapter: 304
+- translator: kenUdigitt
+- published: 2023-12-26T00:23:14+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18qv08t/novel_chapter_304

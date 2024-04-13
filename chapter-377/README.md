@@ -1,0 +1,4 @@
+- chapter: 377
+- translator: kenUdigitt
+- published: 2024-03-22T13:25:22+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bkz6b0/novel_chapter_377

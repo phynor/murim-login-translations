@@ -1,0 +1,4 @@
+- chapter: 368
+- translator: kenUdigitt
+- published: 2024-03-15T14:42:39+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bffk3l/novel_chapter_368

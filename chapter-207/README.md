@@ -1,0 +1,4 @@
+- chapter: 207
+- translator: Coldbutteredtoast
+- published: 2022-10-23T16:52:22+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/y5rz5j/murim_login_novel_summaries_200209/ith5rmr/

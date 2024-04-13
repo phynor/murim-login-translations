@@ -1,0 +1,4 @@
+- chapter: 375
+- translator: kenUdigitt
+- published: 2024-03-22T13:24:06+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bkz5cq/novel_chapter_375

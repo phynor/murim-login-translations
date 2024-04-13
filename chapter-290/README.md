@@ -1,0 +1,4 @@
+- chapter: 290
+- translator: kenUdigitt
+- published: 2023-12-01T15:23:24+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/188ehzl/novel_chapter_290

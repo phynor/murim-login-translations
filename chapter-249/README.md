@@ -1,0 +1,4 @@
+- chapter: 249
+- translator: Coldbutteredtoast
+- published: 2023-01-23T15:42:36+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/10jffyf/chapter_249/

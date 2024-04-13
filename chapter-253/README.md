@@ -1,0 +1,4 @@
+- chapter: 253
+- translator: No_End_9483
+- published: 2023-02-18T23:43:24+00:00
+- source: https://www.reddit.com/user/No_End_9483/comments/115vp2i/murim_login_novel_ch253/

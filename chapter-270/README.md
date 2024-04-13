@@ -1,0 +1,4 @@
+- chapter: 270
+- translator: kenUdigitt
+- published: 2023-10-20T15:26:13+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17cdw9r/novel_chapter_270

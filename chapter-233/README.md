@@ -1,0 +1,4 @@
+- chapter: 233
+- translator: Coldbutteredtoast
+- published: 2022-12-19T00:18:37+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zpcpv3/chapter_233/

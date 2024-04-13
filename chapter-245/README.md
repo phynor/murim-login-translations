@@ -1,0 +1,4 @@
+- chapter: 245
+- translator: Coldbutteredtoast
+- published: 2023-01-14T21:00:34+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/10bz9f6/chapter_245/

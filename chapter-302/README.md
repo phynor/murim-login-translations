@@ -1,0 +1,4 @@
+- chapter: 302
+- translator: kenUdigitt
+- published: 2023-12-22T15:54:12+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18oi1hm/novel_chapter_302

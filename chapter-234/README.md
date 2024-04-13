@@ -1,0 +1,4 @@
+- chapter: 234
+- translator: Coldbutteredtoast
+- published: 2022-12-21T13:47:14+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zrmq9o/chapter_234/

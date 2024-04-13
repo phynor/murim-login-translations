@@ -1,0 +1,4 @@
+- chapter: 217
+- translator: Coldbutteredtoast
+- published: 2022-11-09T01:11:47+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/ygxe6i/murim_login_novel_summaries_210219/ivmiad6/

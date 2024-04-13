@@ -1,0 +1,4 @@
+- chapter: 262
+- translator: kenUdigitt
+- published: 2023-09-23T22:20:35+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/16qh0qf/novel_chapter_262

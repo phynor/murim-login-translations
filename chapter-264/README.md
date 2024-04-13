@@ -1,0 +1,4 @@
+- chapter: 264
+- translator: kenUdigitt
+- published: 2023-10-01T23:29:42+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/16xgmk0/novel_chapter_264

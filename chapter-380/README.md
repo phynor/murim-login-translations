@@ -1,0 +1,4 @@
+- chapter: 380
+- translator: kenUdigitt
+- published: 2024-03-29T14:20:06+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bqqg1j/novel_chapter_380

@@ -1,0 +1,4 @@
+- chapter: 293
+- translator: kenUdigitt
+- published: 2023-12-08T14:59:49+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18don0x/novel_chapter_293

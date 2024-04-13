@@ -1,0 +1,4 @@
+- chapter: 334
+- translator: kenUdigitt
+- published: 2024-02-16T14:47:50+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1asacgc/novel_chapter_334

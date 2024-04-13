@@ -1,0 +1,4 @@
+- chapter: 266
+- translator: kenUdigitt
+- published: 2023-10-06T15:36:44+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/171fi4e/novel_chapter_266

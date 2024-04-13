@@ -1,0 +1,4 @@
+- chapter: 369
+- translator: kenUdigitt
+- published: 2024-03-15T14:43:20+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bffko0/novel_chapter_369

@@ -1,0 +1,4 @@
+- chapter: 312
+- translator: kenUdigitt
+- published: 2024-01-05T16:20:21+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18zap9q/novel_chapter_312

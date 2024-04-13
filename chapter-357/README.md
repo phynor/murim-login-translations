@@ -1,0 +1,4 @@
+- chapter: 357
+- translator: kenUdigitt
+- published: 2024-02-23T15:43:33+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ay3m5t/novel_chapter_357

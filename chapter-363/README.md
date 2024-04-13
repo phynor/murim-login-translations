@@ -1,0 +1,4 @@
+- chapter: 363
+- translator: kenUdigitt
+- published: 2024-03-08T15:33:24+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1b9quj6/novel_chapter_363

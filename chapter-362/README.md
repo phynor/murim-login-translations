@@ -1,0 +1,4 @@
+- chapter: 362
+- translator: kenUdigitt
+- published: 2024-03-08T15:32:33+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1b9qtrq/novel_chapter_362

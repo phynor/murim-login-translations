@@ -1,0 +1,4 @@
+- chapter: 359
+- translator: kenUdigitt
+- published: 2024-03-01T15:19:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1b3wrwv/novel_chapter_359

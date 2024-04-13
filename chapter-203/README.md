@@ -1,0 +1,4 @@
+- chapter: 203
+- translator: Coldbutteredtoast
+- published: 2022-10-20T00:56:16+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/y5rz5j/murim_login_novel_summaries_200209/it0fu8j/

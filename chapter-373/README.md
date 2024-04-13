@@ -1,0 +1,4 @@
+- chapter: 373
+- translator: kenUdigitt
+- published: 2024-03-22T13:22:50+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bkz4gl/novel_chapter_373

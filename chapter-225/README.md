@@ -1,0 +1,4 @@
+- chapter: 225
+- translator: Coldbutteredtoast
+- published: 2022-11-24T21:18:22+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/yx70bd/murim_login_novel_ftl_220229/ixnq0yl/

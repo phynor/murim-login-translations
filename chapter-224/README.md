@@ -1,0 +1,4 @@
+- chapter: 224
+- translator: Coldbutteredtoast
+- published: 2022-11-22T10:01:30+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/yx70bd/murim_login_novel_ftl_220229/ixc6fl1/

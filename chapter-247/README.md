@@ -1,0 +1,4 @@
+- chapter: 247
+- translator: Coldbutteredtoast
+- published: 2023-01-19T17:05:28+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/10g6zkr/chapter_247/

@@ -1,0 +1,4 @@
+- chapter: 322
+- translator: kenUdigitt
+- published: 2024-01-26T18:39:03+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1abpham/novel_chapter_322

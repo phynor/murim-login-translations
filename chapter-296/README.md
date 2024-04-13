@@ -1,0 +1,4 @@
+- chapter: 296
+- translator: kenUdigitt
+- published: 2023-12-09T17:43:35+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18eirud/novel_chapter_296

@@ -1,0 +1,4 @@
+- chapter: 288
+- translator: kenUdigitt
+- published: 2023-12-01T15:21:13+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/188eg87/novel_chapter_288

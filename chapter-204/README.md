@@ -1,0 +1,4 @@
+- chapter: 204
+- translator: Coldbutteredtoast
+- published: 2022-10-20T16:53:32+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/y5rz5j/murim_login_novel_summaries_200209/it3abjs/

@@ -1,0 +1,4 @@
+- chapter: 299
+- translator: kenUdigitt
+- published: 2023-12-15T16:16:50+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18j3q5m/novel_chapter_299

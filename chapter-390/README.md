@@ -1,0 +1,4 @@
+- chapter: 390
+- translator: kenUdigitt
+- published: 2024-04-13T14:08:30+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c32tcj/novel_chapter_390

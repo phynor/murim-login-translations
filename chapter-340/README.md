@@ -1,0 +1,4 @@
+- chapter: 340
+- translator: kenUdigitt
+- published: 2024-02-19T13:09:49+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aumwsz/novel_chapter_340

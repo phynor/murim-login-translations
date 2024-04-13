@@ -1,0 +1,4 @@
+- chapter: 318
+- translator: kenUdigitt
+- published: 2024-01-19T15:46:20+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/19am19j/novel_chapter_318

@@ -1,0 +1,4 @@
+- chapter: 265
+- translator: kenUdigitt
+- published: 2023-10-01T23:31:32+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/16xgo8k/novel_chapter_265

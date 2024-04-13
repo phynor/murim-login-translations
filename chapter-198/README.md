@@ -1,0 +1,4 @@
+- chapter: 198
+- translator: Coldbutteredtoast
+- published: 2022-10-13T20:42:43+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/xz8qsb/murim_login_novel_summaries_190199/is7bqnk/

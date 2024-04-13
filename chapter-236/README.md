@@ -1,0 +1,4 @@
+- chapter: 236
+- translator: Coldbutteredtoast
+- published: 2022-12-27T12:43:55+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zwets1/chapter_236/

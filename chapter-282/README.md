@@ -1,0 +1,4 @@
+- chapter: 282
+- translator: kenUdigitt
+- published: 2023-11-17T15:07:02+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/17xh3k6/novel_chapter_282

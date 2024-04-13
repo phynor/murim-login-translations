@@ -1,0 +1,4 @@
+- chapter: 387
+- translator: kenUdigitt
+- published: 2024-04-06T03:43:27+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1bx1upm/novel_chapter_387

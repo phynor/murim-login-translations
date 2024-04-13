@@ -1,0 +1,4 @@
+- chapter: 303
+- translator: kenUdigitt
+- published: 2023-12-26T00:22:32+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18quzqq/novel_chapter_303

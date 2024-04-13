@@ -1,0 +1,4 @@
+- chapter: 332
+- translator: kenUdigitt
+- published: 2024-02-16T14:45:43+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1asaaof/novel_chapter_332

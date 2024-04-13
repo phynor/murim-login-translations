@@ -1,0 +1,4 @@
+- chapter: 231
+- translator: Coldbutteredtoast
+- published: 2022-12-14T07:50:59+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zll1r4/chapter_230/

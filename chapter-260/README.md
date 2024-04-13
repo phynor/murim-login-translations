@@ -1,0 +1,4 @@
+- chapter: 260
+- translator: kenUdigitt
+- published: 2023-09-17T19:04:38+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/16l93st/novel_chapter_260

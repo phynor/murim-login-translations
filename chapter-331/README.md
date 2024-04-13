@@ -1,0 +1,4 @@
+- chapter: 331
+- translator: kenUdigitt
+- published: 2024-02-09T17:01:47+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1amsw2c/novel_chapter_331

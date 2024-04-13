@@ -1,0 +1,4 @@
+- chapter: 238
+- translator: Coldbutteredtoast
+- published: 2022-12-31T12:19:19+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zzsxda/chapter_238/

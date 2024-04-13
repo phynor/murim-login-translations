@@ -1,0 +1,4 @@
+- chapter: 328
+- translator: kenUdigitt
+- published: 2024-02-09T16:57:37+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1amss7s/novel_chapter_328

@@ -1,0 +1,4 @@
+- chapter: 339
+- translator: kenUdigitt
+- published: 2024-02-19T13:08:28+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aumvtw/novel_chapter_339

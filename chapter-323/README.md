@@ -1,0 +1,4 @@
+- chapter: 323
+- translator: kenUdigitt
+- published: 2024-01-26T18:40:00+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1abpi0z/novel_chapter_323

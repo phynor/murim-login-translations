@@ -1,0 +1,4 @@
+- chapter: 350
+- translator: kenUdigitt
+- published: 2024-02-19T14:03:49+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1auo17c/novel_chapter_350

@@ -1,0 +1,4 @@
+- chapter: 242
+- translator: Coldbutteredtoast
+- published: 2023-01-08T15:46:00+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/106ma5k/chapter_242/

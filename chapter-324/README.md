@@ -1,0 +1,4 @@
+- chapter: 324
+- translator: kenUdigitt
+- published: 2024-02-02T16:19:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ah7hhy/novel_chapter_324

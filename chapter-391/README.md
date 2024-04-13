@@ -1,0 +1,4 @@
+- chapter: 391
+- translator: kenUdigitt
+- published: 2024-04-13T14:09:06+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c32ts8/novel_chapter_391

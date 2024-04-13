@@ -1,0 +1,4 @@
+- chapter: 287
+- translator: kenUdigitt
+- published: 2023-11-24T15:00:29+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/182tyue/novel_chapter_287

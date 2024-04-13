@@ -1,0 +1,4 @@
+- chapter: 356
+- translator: kenUdigitt
+- published: 2024-02-23T15:41:26+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ay3kbi/novel_chapter_356

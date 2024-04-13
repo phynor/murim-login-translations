@@ -1,0 +1,4 @@
+- chapter: 211
+- translator: Coldbutteredtoast
+- published: 2022-10-29T22:52:01+00:00
+- source: https://www.reddit.com/r/MurimLogin/comments/ygxe6i/murim_login_novel_summaries_210219/iuay84k/

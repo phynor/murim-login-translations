@@ -1,0 +1,4 @@
+- chapter: 344
+- translator: kenUdigitt
+- published: 2024-02-19T13:16:51+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1aun1vj/novel_chapter_344

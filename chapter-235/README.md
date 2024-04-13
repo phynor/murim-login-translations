@@ -1,0 +1,4 @@
+- chapter: 235
+- translator: Coldbutteredtoast
+- published: 2022-12-25T02:41:39+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/zuouqe/chapter_235/

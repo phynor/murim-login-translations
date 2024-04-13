@@ -1,0 +1,4 @@
+- chapter: 301
+- translator: kenUdigitt
+- published: 2023-12-22T15:53:36+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/18oi118/novel_chapter_301

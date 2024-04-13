@@ -1,0 +1,4 @@
+- chapter: 239
+- translator: Coldbutteredtoast
+- published: 2023-01-01T20:59:49+00:00
+- source: https://www.reddit.com/user/Coldbutteredtoast/comments/100t9y2/chapter_239/

@@ -1,0 +1,4 @@
+- chapter: 256
+- translator: No_End_9483
+- published: 2023-02-26T17:27:33+00:00
+- source: https://www.reddit.com/user/No_End_9483/comments/11cn2b5/murim_login_novel_ch256/
