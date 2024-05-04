@@ -1,0 +1,4 @@
+- chapter: 395
+- translator: kenUdigitt
+- published: 2024-04-20T13:08:43+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c8pl7r/novel_chapter_395/

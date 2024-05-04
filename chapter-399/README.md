@@ -1,0 +1,4 @@
+- chapter: 399
+- translator: kenUdigitt
+- published: 2024-04-27T13:29:35+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ceekmw/novel_chapter_399/

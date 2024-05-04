@@ -1,0 +1,4 @@
+- chapter: 393
+- translator: kenUdigitt
+- published: 2024-04-20T13:07:21+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c8pk7c/novel_chapter_393/

@@ -1,0 +1,4 @@
+- chapter: 396
+- translator: kenUdigitt
+- published: 2024-04-27T13:27:02+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ceeivl/novel_chapter_396/

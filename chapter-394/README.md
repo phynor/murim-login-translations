@@ -1,0 +1,4 @@
+- chapter: 394
+- translator: kenUdigitt
+- published: 2024-04-20T13:07:59+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c8pkoe/novel_chapter_394/

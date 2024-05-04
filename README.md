@@ -13,7 +13,7 @@ Numbering for chapter 191-230 corrected.
 ## 🔗 Source & 🧑‍ Translators 
 + [Chapters 190 - 250](https://www.reddit.com/user/Coldbutteredtoast/comments/zlkymm/toast_ftl/): [Coldbutteredtoast](https://www.reddit.com/user/Coldbutteredtoast)
 + [Chapters 251 - 258](https://www.reddit.com/r/MurimLogin/comments/114giz4/murim_login_novel_ch251/): [No_End_9483](https://www.reddit.com/user/No_End_9483)
-+ [Chapters 258 - 391](https://www.reddit.com/user/kenUdigitt/comments/17745qw/murim_login_novel_ftl/): [kenUdigitt](https://www.reddit.com/user/kenUdigitt)
++ [Chapters 258 - 405](https://www.reddit.com/user/kenUdigitt/comments/17745qw/murim_login_novel_ftl/): [kenUdigitt](https://www.reddit.com/user/kenUdigitt)
 
 # 📜 Story
 
@@ -85,4 +85,3 @@ Numbering for chapter 191-230 corrected.
 - Extinguishing Flame Divine Fist → Destruction Flame Divine Fist
 - Vault of the Flame Clan → Scorching Fire Cave
 - Scorching Clan/Flame Clan/Fire Clan → Scorching Fire Clan
-

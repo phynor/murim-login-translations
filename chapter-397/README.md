@@ -1,0 +1,4 @@
+- chapter: 397
+- translator: kenUdigitt
+- published: 2024-04-27T13:27:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ceejcz/novel_chapter_397/

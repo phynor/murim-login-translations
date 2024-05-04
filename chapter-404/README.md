@@ -1,0 +1,4 @@
+- chapter: 404
+- translator: kenUdigitt
+- published: 2024-05-04T14:31:49+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1ck1nqh/novel_chapter_404/

@@ -1,0 +1,4 @@
+- chapter: 392
+- translator: kenUdigitt
+- published: 2024-04-20T13:06:44+00:00
+- source: https://www.reddit.com/user/kenUdigitt/comments/1c8pjr4/novel_chapter_392/
